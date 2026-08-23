@@ -1,5 +1,5 @@
 # ml-classifier-demo
-a classifier trained on a small tabular dataset using scikit-learn.
+A classifier trained on a small tabular dataset using scikit-learn.
 
 It's simple end-to-end machine learning workflow using scikit-learn — generates a dataset, trains a Random Forest classifier through a preprocessing + model pipeline, evaluates performance, and saves the trained pipeline.
 
