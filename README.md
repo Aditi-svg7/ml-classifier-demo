@@ -5,13 +5,21 @@ It's simple end-to-end machine learning workflow using scikit-learn — generate
 
 ## Project Structure
 simple-ml-project/
+
 ├── data/
+
 │ └── dataset.csv # Generated dataset
+
 ├── save_dataset.py # Generates dataset.csv from sklearn's Iris data
+
 ├── train.py # Loads data, builds pipeline, trains, evaluates, saves model
+
 ├── requirements.txt # Python dependencies
+
 ├── model.pkl # Trained pipeline (generated after running train.py)
+
 └── README.md
+
 
 
 
