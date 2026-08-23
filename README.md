@@ -52,15 +52,15 @@ This will:
 ## Example Output
 
 Accuracy: 1.0
-              precision    recall  f1-score   support
-
-      setosa       1.00      1.00      1.00        10
-  versicolor       1.00      1.00      1.00         9
-   virginica       1.00      1.00      1.00        11
-
-    accuracy                           1.00        30
-   macro avg       1.00      1.00      1.00        30
-weighted avg       1.00      1.00      1.00        30
+                             precision    recall  f1-score   support
+               
+                     setosa       1.00      1.00      1.00        10
+                 versicolor       1.00      1.00      1.00         9
+                  virginica       1.00      1.00      1.00        11
+               
+                   accuracy                           1.00        30
+                  macro avg       1.00      1.00      1.00        30
+               weighted avg       1.00      1.00      1.00        30
 
 Pipeline saved to model.pkl
 
