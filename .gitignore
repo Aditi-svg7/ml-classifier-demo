@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: exclude trained model (uncomment if you don't want to commit it)
+# model.pkl
