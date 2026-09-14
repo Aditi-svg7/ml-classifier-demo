@@ -4,7 +4,7 @@ A classifier trained on a small tabular dataset using scikit-learn. This project
 It's simple end-to-end machine learning workflow using scikit-learn generates a dataset, trains a Random Forest classifier through a preprocessing + model pipeline, evaluates performance, and saves the trained pipeline.
 
 ## Project Structure
-simple-ml-project/
+ml-classifier-demo/
 
 ├── data/
 
