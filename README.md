@@ -1,7 +1,7 @@
 # ml-classifier-demo
-A classifier trained on a small tabular dataset using scikit-learn.
+A classifier trained on a small tabular dataset using scikit-learn. This project was built mostly to demonstrate in the most simplest way possible the use of pipeline in models.
 
-It's simple end-to-end machine learning workflow using scikit-learn — generates a dataset, trains a Random Forest classifier through a preprocessing + model pipeline, evaluates performance, and saves the trained pipeline.
+It's simple end-to-end machine learning workflow using scikit-learn generates a dataset, trains a Random Forest classifier through a preprocessing + model pipeline, evaluates performance, and saves the trained pipeline.
 
 ## Project Structure
 simple-ml-project/
